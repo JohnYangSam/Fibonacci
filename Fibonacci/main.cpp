@@ -58,8 +58,6 @@ int main (int argc, const char * argv[])
     int lengthOfSequence = GetInteger();
     PrintFibonacci(lengthOfSequence);
     
-    // insert code here...
-    cout << "Hello, World!\n";
     return 0;
 }
 
